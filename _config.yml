@@ -1,0 +1,9 @@
+name: ERZXQM
+url: http://example.org
+description: Feel the fear and do it anyway.
+
+permalink: /:year/:month/:day/:title/
+paginate: 5
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
