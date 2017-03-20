@@ -244,6 +244,10 @@ img.center {
 	#sidebar nav select.mnav {
 		display: block;
 		margin-bottom: 15px;
+		background: #073642;
+		color: #009889;
+		border: none;
+		padding: 4px;
 	}
 
 }
